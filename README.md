@@ -13,7 +13,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mdadnanpatel1771-cloud&color=0B1F3A&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/mdadnanpatel1771-cloud?style=for-the-badge&color=0B1F3A&labelColor=grey)
+[![Followers](https://img.shields.io/github/followers/mdadnanpatel1771-cloud?label=FOLLOWERS&style=for-the-badge&color=0B1F3A&labelColor=grey)
 
 </div>
 
