@@ -47,7 +47,8 @@ const mdadnanpatel1771Cloud = {
 A user-friendly web application to browse, manage, and discover books online.
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdadnanpatel1771-cloud&repo=book-box-web-application&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="Book Box Web Application" />
+  <h2>
+  <img src="https://img.icons8.com/color/96/book-shelf.png" width="32" height="32"> Book Box Web Application </h2>
 </div>
 
 | Layer | Technology |
@@ -65,7 +66,8 @@ A user-friendly web application to browse, manage, and discover books online.
 A responsive multi-cuisine restaurant website that enhances the dining experience through easy reservations and online ordering.
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdadnanpatel1771-cloud&repo=vibe-and-dine-multi-cuisine-restaurant-web-app&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="Vibe and Dine" />
+  <h2>
+  <img src="https://img.icons8.com/color/96/restaurant.png" width="32" height="32"> Vibe and Dine </h2>
 </div>
 
 | Layer | Technology |
