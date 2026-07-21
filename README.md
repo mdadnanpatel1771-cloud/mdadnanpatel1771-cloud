@@ -95,21 +95,14 @@ A responsive multi-cuisine restaurant website that enhances the dining experienc
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mdadnanpatel1771-cloud&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdadnanpatel1771-cloud&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff" alt="Top Languages" height="165"/>
-
 <img src="https://streak-stats.demolab.com?user=mdadnanpatel1771-cloud&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak" />
-
 </div>
 
 ---
 
 ## 🏆 Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdadnanpatel1771-cloud&theme=nord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
+
 
 ---
 
