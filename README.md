@@ -25,7 +25,7 @@
 const mdadnanpatel1771Cloud = {
   title: "IT Student",
   stack: {
-    languages: ["Python"],
+    languages: ["Python"],["Java"],
     fullStack: ["MERN Stack (MongoDB, Express.js, React, Node.js)"],
   },
   launchedProjects: [
@@ -82,7 +82,7 @@ A responsive multi-cuisine restaurant website that enhances the dining experienc
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python" alt="languages" />
+<img src="https://skillicons.dev/icons?i=python" alt="languages" /> <img src="https://skillicons.dev/icons?i=java" alt="languages" />
 
 **Full Stack (MERN)**
 
