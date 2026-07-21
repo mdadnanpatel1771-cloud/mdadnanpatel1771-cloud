@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:#000080,100:0ea5e9&height=200&section=header&text=mdadnanpatel1771-cloud&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=IT%20Student&descAlignY=55&descSize=18" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=mdadnanpatel1771-cloud&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=IT%20Student&descAlignY=55&descSize=18" alt="header banner" />
 
 <a href="https://github.com/mdadnanpatel1771-cloud">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=IT+Student;Python+Developer;MERN+Stack+Developer;Building+Book+Box+%F0%9F%93%9A;Building+Vibe+and+Dine+%F0%9F%8D%BD%EF%B8%8F" alt="Typing SVG" />
